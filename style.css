@@ -1,6 +1,6 @@
 
 .Title{
-    text-align: center;
+    text-align: right;
     color: grey;
 }
 #Entete{
@@ -11,12 +11,21 @@
     
 }
 .soustitre{
-    
-    
+    margin-top: 10px;
+    color: grey;
 }
 .topnav{
     float: right;
     margin-right: 3%;
     color: grey;
     height: 10%;
+}
+.MapMagasins{
+    margin-top: 500px;
+    border: 5px solid black;
+    position: fixed;
+}
+.ImageViande{
+    width: 100%;
+    position: absolute;
 }
